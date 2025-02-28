@@ -1,4 +1,6 @@
 # O-Chaos
+NOTE THAT THIS PACK CURRENTLY DOES NOT FOLLOW THE RULES OF THE MESSAGE BOARDS, AND SHOULD NOT BE USED IN PUBLIC SERVERS.
+
 It's pronounced Nought Chaos. A pack for my original characters and personal history!
 
 This addon will be available here aswell as the SRB2 Message Boards due to some issues regarding approval. There are only two active judges, isn't that crazy?
